@@ -1,4 +1,3 @@
 Cambiando la primer linea
-Cambiando la primer linea
 Cambiando la segunda linea
 Agregamos la tercera linea
