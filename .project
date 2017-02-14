@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>git_bamboo</name>
+=======
+	<name>bamboo_git_bamboo</name>
+>>>>>>> 9bb28cb13e0b27e94933d95aa6a9b3ec1e1e4ad7
 	<comment></comment>
 	<projects>
 	</projects>
